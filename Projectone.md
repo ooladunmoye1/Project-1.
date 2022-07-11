@@ -113,4 +113,6 @@
 ![Apache reload after remove created file](./Images/Apache-reload-after-php-rm.PNG)
 
 
+`THIS IS JUST THE LEARNING BEGINNING`
 
+`THANK YOU`
